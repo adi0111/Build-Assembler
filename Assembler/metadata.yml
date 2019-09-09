@@ -1,0 +1,14 @@
+---
+:id: 15694061
+:submitters:
+- :name: Shunchang Wang
+  :email: scwang@clarku.edu
+- :name: Bo Liu
+  :email: boliu@clarku.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-03-17 04:32:04.749686000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-03-16 21:32:04.749686000 Z
+:status: processed
+:score: 50.0
